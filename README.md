@@ -1,1 +1,1 @@
-Repositório criado para a disciplina Estrutura de Dados II. Cada trabalho terá seu própio diretório aqui com um README próprio.
+Repositório criado para a disciplina Estrutura de Dados II. Cada trabalho terá seu diretório aqui com um README próprio.
